@@ -92,3 +92,7 @@ _**Aggregated and ratio metrics**_
 •	ad_events.Add Type
 •	Select Dynamic Measure.Gender Title
 •	Select Dynamic Measure.Age Title
+
+**Dashboard Visual**
+Page of Instagram : https://github.com/SaiAjith1919/Meta-Ads-Dashboard-/blob/main/Meta%20Ads%20Dashboard%20(Instagram%20page).png
+Page of Facebook  : https://github.com/SaiAjith1919/Meta-Ads-Dashboard-/blob/main/Meta%20Ads%20Dashboard%20(Facebook%20page).png
